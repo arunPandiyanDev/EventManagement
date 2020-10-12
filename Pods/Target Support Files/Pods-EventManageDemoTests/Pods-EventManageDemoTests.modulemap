@@ -1,0 +1,6 @@
+framework module Pods_EventManageDemoTests {
+  umbrella header "Pods-EventManageDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
